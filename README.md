@@ -7,7 +7,9 @@ webflow
 
 mixio
 
-### App Development:
+Cardd
+
+### App Development Frameworks:
 
 ### E-Commerce:
 
@@ -20,9 +22,18 @@ instamojo
 
 ### Digital Assets
 
-## LMS
+## LMS  -- Learning Management System
+
+Teachable
+
+Graphy
+
+Talent LMS
+
 
 ### PORTAL
+
+
 
 ### WordPress:
 
