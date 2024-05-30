@@ -26,6 +26,8 @@ instamojo
 
 Teachable
 
+Thinkific
+
 Graphy
 
 Talent LMS
@@ -36,4 +38,12 @@ Talent LMS
 
 
 ### WordPress:
+
+E-commerce: WooCommerce, BigCommerce, Shopify
+
+Social Media:
+
+Marketing Plugins:
+
+MFA: 
 
