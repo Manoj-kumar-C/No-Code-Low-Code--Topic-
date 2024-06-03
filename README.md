@@ -47,3 +47,27 @@ Marketing Plugins:
 
 MFA: 
 
+
+
+### Email Marketing
+
+List Monk
+
+Mail Chimp
+
+
+### Social Media Marketing
+
+Odoo CRM
+
+Metricool
+
+Buffer
+
+Publer
+
+Social Champ
+
+Social Oomph
+
+
