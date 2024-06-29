@@ -33,6 +33,7 @@
 - [Mailchimp](https://mailchimp.com)
 - [Mautic](https://mautic.org)
 - [SendPortal.io](https://sendportal.io)
+- [MailJet](https://mailjet.net)
 
 ### Social Media Marketing
 - [Odoo CRM](https://odoo.com)
@@ -45,3 +46,14 @@
 ## Website Builders
 - [Grape.js](https://grapesjs.com)
 - [WordPress](https://wordpress.com)
+
+
+
+## All in one Business Softwares
+
+## Small Scale Business Sotwares 
+
+## POS related software
+
+## CRM Tools and Platforms
+
